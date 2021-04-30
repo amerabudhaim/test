@@ -7,4 +7,4 @@
 
 > awesome
 
-:smile
+😄
