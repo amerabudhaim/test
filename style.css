@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    background-color: whitesmoke;
+    text-align: center;
+    
+    font-size: 0;
+}
+body {
+    height: inherit;
+}
+header ,main ,footer {  
+    background-image: linear-gradient(rgb(146, 219, 216), white);
+}
+p {
+    font-size: initial;
+}
